@@ -11,7 +11,6 @@ Welcome to sphinx_markdown_readthedocs's documentation!
    :caption: Contents:
 
    tutorial.md
-   ...
 
 
 
