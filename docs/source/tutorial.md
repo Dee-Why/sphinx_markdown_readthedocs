@@ -2,7 +2,7 @@
 
 ## first
 
-???
+pip install -r requirements.txt
 
 ## Second
 
